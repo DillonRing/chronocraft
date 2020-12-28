@@ -46,6 +46,6 @@ Dimensions
 
 ## Useful links
 
-Coordinate finder: https://earth.motfe.net/2020/01/22/coordinate-calculator/
+Coordinate finder: [Click Here](https://earth.motfe.net/2020/01/22/coordinate-calculator/)
 
-World map: https://earth.motfe.net/map/index.html#1_2000_topdown/0/3/24/-720/64
+World map: [Click Here](https://earth.motfe.net/map/index.html#1_2000_topdown/0/3/24/-720/64)

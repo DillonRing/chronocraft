@@ -43,3 +43,9 @@ Advertising
 
 Dimensions
 - Both the end and nether cannot be claimed by a nation
+
+## Useful links
+
+Coordinate finder: https://earth.motfe.net/2020/01/22/coordinate-calculator/
+
+World map: https://earth.motfe.net/map/index.html#1_2000_topdown/0/3/24/-720/64

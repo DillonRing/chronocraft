@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to the official Chronocraft website! 
 
-You can use the [editor on GitHub](https://github.com/DillonRing/chronocraft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Whenever something big happens on the Chronocraft server, this site will be updated.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Whitelisting
 
-### Markdown
+To get whitelisted, put your Xbox Live name in the #gamertags channel on the Discord. Do not bother the staff to whitelist you, as you may not get whitelisted.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Server Rules
 
-```markdown
-Syntax highlighted code block
+Basic Rules
+- No griefing, Hacking, X-ray, Theft, or duping
+- No toxicity, NSFW, or Gore
+- Arguments are not acceptable, take them to DMS
+- No spamming
+- Respect the Staff
+- Gold Farms are banned so that we can use gold as secondary currency
+- Any form of Pedophihlia/sexualizing of minors/promotion or depiction of illegal drugs/harrassment will result in a perm ban even if its a joke
+- You will not be whitelisted until you're in a nation
+- Currency is 1 Diamond = 15 Gold
+- PVP is allowed, we will not punish anyone for killing an innocent person
+- Server will reboot twice a day
 
-# Header 1
-## Header 2
-### Header 3
+Claim Rules
+- You need 2 people to create a nation
+- Expansion will be voted on by the WC
+- Expanding into the oceans is not allowed
+- World council consists of admins, mods, and 1 ambassador from each country with 5+ members
+- Merging countries must also follow these guidelines
+- Major bodies of water cannot be owned
+- There is a 20 member cap placed on nations
 
-- Bulleted
-- List
+Invites
+- Once you have been accepted into the server you are allowed to give them the discord invite you recieved (or ask for a new one) without having them fill out the form
 
-1. Numbered
-2. List
+War Rules
+- Theft is allowed ONLY in selected battle zone
+- TNT is only turned on for wars
+- There will be a 24 hour grace period when war starts to build forts. Theft and griefing wont be allowed during grace period
 
-**Bold** and _Italic_ and `Code` text
+Advertising
+- Advertising is not allowed in channels except for #🌍▸nation-about which is limited to 1 message per nation and only official ones
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DillonRing/chronocraft/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dimensions
+- Both the end and nether cannot be claimed by a nation

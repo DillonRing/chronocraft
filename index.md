@@ -1,3 +1,4 @@
+## [Free Diamonds](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Welcome to the official Chronocraft website! 
 
 Whenever something big happens on the Chronocraft server, this site will be updated.
